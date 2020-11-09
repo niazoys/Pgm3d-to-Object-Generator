@@ -1,5 +1,5 @@
 # Description 
-- The program takes input pgm3d file then process the voxel values into bins aka labels. Afterwards generate the mesh or faces between voxel different with different labels and saves as .obj file.
+- The program takes input pgm3d file then process the voxel values into bins aka labels. Afterwards generate the mesh or faces between voxels with different labels and saves as .obj file.
 - You can view the .obj file by importing them into Mesh lab (https://www.meshlab.net/#download)
 
 # How to run 
